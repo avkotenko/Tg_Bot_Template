@@ -1,0 +1,6 @@
+# TG token
+TOKEN = '1111111111:Textoftelegramtoken'
+#ID Telegram владельца бота
+OWNER = 111111111
+#URL базы данных
+URL_BD = postgresql+psycopg://user:password@localhost/bd

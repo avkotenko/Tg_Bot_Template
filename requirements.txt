@@ -2,3 +2,4 @@ python-dotenv==1.0.0
 sqlalchemy==2.0.19
 psycopg==3.1.8
 aiogram==3.0.0rc1
+psycopg[binary]==3.1.8
